@@ -1,0 +1,20 @@
+D:\SPS CL\PRG\CS038MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\bin\Debug\CS030PresneMereniCasu.exe.config
+D:\SPS CL\PRG\CS038MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\bin\Debug\CS030PresneMereniCasu.exe
+D:\SPS CL\PRG\CS038MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\bin\Debug\CS030PresneMereniCasu.pdb
+D:\SPS CL\PRG\CS038MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS038MereniAlgoritmuRazeniPomale.csprojAssemblyReference.cache
+D:\SPS CL\PRG\CS038MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS031MereniAlgoritmuProhozeni.MereniAlgoritmuProhozeniForm.resources
+D:\SPS CL\PRG\CS038MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS030PresneMereniCasu.Properties.Resources.resources
+D:\SPS CL\PRG\CS038MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS038MereniAlgoritmuRazeniPomale.csproj.GenerateResource.cache
+D:\SPS CL\PRG\CS038MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS038MereniAlgoritmuRazeniPomale.csproj.CoreCompileInputs.cache
+D:\SPS CL\PRG\CS038MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS030PresneMereniCasu.exe
+D:\SPS CL\PRG\CS038MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS030PresneMereniCasu.pdb
+C:\Users\JAN\Desktop\CS038MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\bin\Debug\CS030PresneMereniCasu.exe.config
+C:\Users\JAN\Desktop\CS038MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\bin\Debug\CS030PresneMereniCasu.exe
+C:\Users\JAN\Desktop\CS038MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\bin\Debug\CS030PresneMereniCasu.pdb
+C:\Users\JAN\Desktop\CS038MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS038MereniAlgoritmuRazeniPomale.csprojAssemblyReference.cache
+C:\Users\JAN\Desktop\CS038MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS031MereniAlgoritmuProhozeni.MereniAlgoritmuProhozeniForm.resources
+C:\Users\JAN\Desktop\CS038MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS030PresneMereniCasu.Properties.Resources.resources
+C:\Users\JAN\Desktop\CS038MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS038MereniAlgoritmuRazeniPomale.csproj.GenerateResource.cache
+C:\Users\JAN\Desktop\CS038MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS038MereniAlgoritmuRazeniPomale.csproj.CoreCompileInputs.cache
+C:\Users\JAN\Desktop\CS038MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS030PresneMereniCasu.exe
+C:\Users\JAN\Desktop\CS038MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS030PresneMereniCasu.pdb
